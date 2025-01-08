@@ -2,6 +2,8 @@
 
 A Facebook-like social network platform built with modern web technologies.
 
+https://github.com/user-attachments/assets/81e042aa-1f51-49c1-8234-6770c0e8e693
+
 ## 🌟 Features
 
 - User Authentication & Profiles
