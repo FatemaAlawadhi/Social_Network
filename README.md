@@ -111,7 +111,7 @@ Privacy levels:
 │   │   │   ├── migrations/
 │   │   │   └── sqlite/
 │   │   └── other_pkgs/
-│   └── server.go
+│   └── cmd/server/main.go
 ├── frontend/
 ├── docker-compose.yml
 └── setup.sh
